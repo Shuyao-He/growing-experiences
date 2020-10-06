@@ -1,6 +1,6 @@
 <head>
 <style type="text/css">
- p {color:blue}
+ p {color:#800080}
 </style>
  </head>
 
