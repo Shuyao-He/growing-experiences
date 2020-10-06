@@ -1,9 +1,6 @@
-<head>
-<style type="text/css">
- p {color:#800080}
-</style>
- </head>
-
+p {
+color:blue;
+}
 # growing-experiences
 我的自我观和成长经历
 
