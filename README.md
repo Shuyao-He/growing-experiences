@@ -1,3 +1,9 @@
+<head>
+<style type="text/css">
+ p {color:blue}
+</style>
+ </head>
+
 # growing-experiences
 我的自我观和成长经历
 
@@ -23,9 +29,6 @@
 
 下面先给出一个历程：
 
-<style type="text/css">
- p {color:blue}
-</style>
 
 <p>
   
@@ -54,3 +57,4 @@
 一直以来的遗憾，就是自己在很多方面都缺乏能力，文字方面的能力倒的确有些，但只是平庸。下一步的目标，就是突破已有的限制，不断开拓未知的领域，并积极寻找资源、开动脑筋，求得能力突破。
 
 </p>
+
